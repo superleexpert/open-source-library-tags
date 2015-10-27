@@ -20,7 +20,7 @@
 
 -----------------------------
 
-[UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，相对更加安全<br>
+[UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
 
 
 
