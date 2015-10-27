@@ -17,3 +17,12 @@
 [UITabelView使用AutoLayout自适应布局](http://www.cocoachina.com/ios/20151009/13640.html)<br>
 [AutoLayout全解](http://www.jianshu.com/p/683fbcbfb705)其中的[UIWebView与UITableView、UIScrollView的交互使用](http://grayluo.github.io/WeiFocusIo/autolayout/2015/02/01/autolayout4/)可以计算ContentSize的动态高度<br>
 [Demo1](https://github.com/superleexpert/AutoLayoutTest)（AutoLayout测试，使用UIScrollView时注意"建立一个与UIScrollview的父视图MainView相同EqualWidth,EqualHeight的约束）<br>
+
+-----------------------------
+
+[UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，相对更加安全<br>
+
+
+
+
+
