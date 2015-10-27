@@ -22,6 +22,13 @@
 
 [UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
 
+----------------------------------------------------------------------
+
+[ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描相关<br>
+
+----------------------------------------------------------------------
+[IQKeyboardManager:](https://github.com/hackiftekhar/IQKeyboardManager)UITextField/UITextView键盘弹出时的遮挡自适应<br>
+
 
 
 
