@@ -5,13 +5,11 @@
 [Demo1](https://github.com/tangqiaoboy/FmdbSample)（表单创建、索引、删除，多线程）<br>
 
 -----------------------------
-
 [HYBubbleButton:](https://github.com/nathanwhy/HYBubbleButton)向上飘散动画效果，使用CAAnimation配合CGPath路径进行位移动画<br>
 其他：类似效果也可使用Dazzle，使用了CAEmitterLayer粒子效果<br>
 [Demo1](https://github.com/superleexpert/UIButonAnimation)（匹配项目需求，连续点击和长按效果）<br>
 
 -----------------------------
-
 [Masonry:](https://github.com/SnapKit/Masonry)布局框架，适合在代码搭建界面使用，系统布局的一种替代方案，有对应Swift版本<br>
 其他：AutoLayout，自动布局，通过创建约束配合可视化界面来创建UI<br>
 [UITabelView使用AutoLayout自适应布局](http://www.cocoachina.com/ios/20151009/13640.html)<br>
@@ -19,15 +17,13 @@
 [Demo1](https://github.com/superleexpert/AutoLayoutTest)（AutoLayout测试，使用UIScrollView时注意"建立一个与UIScrollview的父视图MainView相同EqualWidth,EqualHeight的约束）<br>
 
 -----------------------------
-
 [UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
 
 ----------------------------------------------------------------------
-
-[ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描相关<br>
+[ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描识别<br>
 
 ----------------------------------------------------------------------
-[IQKeyboardManager:](https://github.com/hackiftekhar/IQKeyboardManager)UITextField/UITextView键盘弹出时的遮挡自适应<br>
+[IQKeyboardManager:](https://github.com/hackiftekhar/IQKeyboardManager)UITextField/UITextView键盘弹出时的遮挡自适应，简易的解决方案<br>
 
 
 
