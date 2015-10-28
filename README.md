@@ -42,6 +42,9 @@
 其他 - [SVProgressHUD:](https://github.com/TransitApp/SVProgressHUD)类似的加载过程显示组件，显示样式不同于前者<br>
 [MRProgress:](https://github.com/mrackwitz/MRProgress)类似的加载显示组件，可获取进度百分比<br>
 
+----------------------------------------------------------------------
+[KSImageNamed-Xcode:](https://github.com/ksuther/KSImageNamed-Xcode)自动提示图片插件，在imageNamed后自动提示预览图片和名称补全功能，提高Coding效率<br>
+
 
 
 
