@@ -20,14 +20,18 @@
 [UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
 
 ----------------------------------------------------------------------
-[ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描识别<br>
+[ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描识别解决方案，可设置可视区域<br>
 
 ----------------------------------------------------------------------
 [IQKeyboardManager:](https://github.com/hackiftekhar/IQKeyboardManager)UITextField/UITextView键盘弹出时的遮挡自适应，简易的解决方案<br>
 
 ----------------------------------------------------------------------
-[pop:](https://github.com/facebook/pop)facebook开源动画引擎，支持弹性、衰减动画，功能强大，核心是CoreAnimation<br>
+[pop:](https://github.com/facebook/pop)facebook开源动画引擎，支持弹性、衰减动画，功能强大，核心使用CoreAnimation<br>
 其他：[Canvas](https://github.com/CanvasPod/Canvas)是一个动画合集，目标"Animate in Xcode Without Code"，对于能够支持的动画效果还算易用，想要扩展有点生硬，[关于二者的比较](http://www.cocoachina.com/industry/20140515/8436.html)<br>
+
+----------------------------------------------------------------------
+[CRGradientNavigationBar:](https://github.com/chroman/CRGradientNavigationBar)可任意设置UINavigationBar的背景颜色和渐变效果，继承于UINavigationBar，支持iOS6以上<br>
+
 
 
 
