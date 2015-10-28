@@ -33,7 +33,7 @@
 [CRGradientNavigationBar:](https://github.com/chroman/CRGradientNavigationBar)可任意设置UINavigationBar的背景颜色和渐变效果，继承于UINavigationBar，支持iOS6以上<br>
 
 ----------------------------------------------------------------------
-[Objective-C-RegEx-Categories:](https://github.com/bendytree/Objective-C-RegEx-Categories#introduction)正则表达式的扩展，添加了NSRegularExpression类目，可用来作邮箱地址有效性、校验数据合法性等验证<br>
+[Objective-C RegEx Categories:](https://github.com/bendytree/Objective-C-RegEx-Categories#introduction)正则表达式的扩展，添加了NSRegularExpression类目，可用来作邮箱地址有效性、校验数据合法性等验证<br>
 其他 - [RegexKitLite:](https://github.com/wezm/RegexKitLite)正则是对NSString的扩展，校验必须是NSString类型<br>
 [xpath](http://www.cocoachina.com/bbs/read.php?tid-29453-page-1.html)是一个正则实现的网页抓取小工具，可在网页上抓取信息<br>
 
@@ -44,8 +44,8 @@
 
 ----------------------------------------------------------------------
 [Alcatraz:](https://github.com/supermarin/Alcatraz)Xcode包管理工具，可搜索后直接安装\卸载，下面推荐3款好用工具<br>
-[KSImageNamed-Xcode:](https://github.com/ksuther/KSImageNamed-Xcode)自动提示图片插件，在imageNamed后自动提示预览图片和名称补全功能，提高Coding效率<br>
-[VVDocumenter-Xcode:](https://github.com/onevcat/VVDocumenter-Xcode)能够快速生成注释文档，Javadoc规范，使用"///"识别<br>
+[KSImageNamed:](https://github.com/ksuther/KSImageNamed-Xcode)自动提示图片插件，在imageNamed后自动提示预览图片和名称补全功能，提高Coding效率<br>
+[VVDocumenter:](https://github.com/onevcat/VVDocumenter-Xcode)能够快速生成注释文档，Javadoc规范，使用"///"识别<br>
 [CocoaPods:](https://github.com/kattrali/cocoapods-xcode-plugin)关联性管理器，可管理第三方库之间的相互依赖，简化了类库的相互依赖、更新、维护等操作，很多主流类库已托管之上<br>
 
 
