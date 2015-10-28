@@ -43,7 +43,11 @@
 [MRProgress:](https://github.com/mrackwitz/MRProgress)类似的加载显示组件，可获取进度百分比<br>
 
 ----------------------------------------------------------------------
+[Alcatraz:](https://github.com/supermarin/Alcatraz)Xcode包管理工具，可搜索后直接安装\卸载，下面推荐3款好用工具<br>
 [KSImageNamed-Xcode:](https://github.com/ksuther/KSImageNamed-Xcode)自动提示图片插件，在imageNamed后自动提示预览图片和名称补全功能，提高Coding效率<br>
+[VVDocumenter-Xcode:](https://github.com/onevcat/VVDocumenter-Xcode)能够快速生成注释文档，Javadoc规范，使用"///"识别<br>
+[cocoapods-xcode-plugin:](https://github.com/ksuther/KSImageNamed-Xcode)CocoaPods关联性管理器，可管理第三方库之间的相互依赖，简化了类库的相互依赖、更新、维护等操作<br>
+
 
 
 
