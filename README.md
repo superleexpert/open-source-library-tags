@@ -35,7 +35,7 @@
 ----------------------------------------------------------------------
 [Objective-C-RegEx-Categories:](https://github.com/bendytree/Objective-C-RegEx-Categories#introduction)正则表达式的扩展，添加了NSRegularExpression类目，可用来作邮箱地址有效性、校验数据合法性等验证<br>
 其他：[RegexKitLite](https://github.com/wezm/RegexKitLite)正则是对NSString的扩展，校验必须是NSString类型<br>
-[xpath](http://www.cocoachina.com/bbs/read.php?tid-29453-page-1.html)（是一个正则实现的网页抓取小工具，可在网页上抓取信息）<br>
+[xpath](http://www.cocoachina.com/bbs/read.php?tid-29453-page-1.html)是一个正则实现的网页抓取小工具，可在网页上抓取信息<br>
 
 
 
