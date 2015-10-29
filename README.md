@@ -64,6 +64,9 @@
 其他 - [MLEmojiLabel:](https://github.com/molon/MLEmojiLabel)自动识别网址、邮箱、表情等<br>
 [Demo1:](https://github.com/mattt/TTTAttributedLabel)（把整段string分割出link链接，里面有动态获取Cell高度的方法）<br>
 
+----------------------------------------------------------------------
+[FDFullscreenPopGesture:](https://github.com/forkingdog/FDFullscreenPopGesture)全屏滑动pan手势pop返回到一级页面，基于UINavigationController，返回动效贴近源生效果，支持iOS7以上<br>
+其他 - [MLTransition:](https://github.com/molon/MLTransition)相似的pop拖动返回功能，号称用了unpublish的API仍然通过审核，要使用的话还是谨慎一些，不确定将来是否没问题<br>
 
 
 
