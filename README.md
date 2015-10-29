@@ -61,7 +61,7 @@
 
 ----------------------------------------------------------------------
 [TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
-[Demo1](https://github.com/mattt/TTTAttributedLabel)(把整段string分割出link链接)<br>
+[Demo1](https://github.com/mattt/TTTAttributedLabel)(把整段string分割出link链接，里面有动态获取Cell高度的方法)<br>
 
 
 
