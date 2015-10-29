@@ -59,6 +59,10 @@
 ----------------------------------------------------------------------
 [AFNetworking:](https://github.com/AFNetworking/AFNetworking)强大的网络请求封装，[Mattt Thompson](https://github.com/mattt/)出品，Swift版可使用[Alamofire](https://github.com/Alamofire/Alamofire)<br>
 
+----------------------------------------------------------------------
+[TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
+[Demo1](https://github.com/mattt/TTTAttributedLabel)(把整段string分割出link链接)<br>
+
 
 
 
