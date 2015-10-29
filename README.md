@@ -52,7 +52,12 @@
 [Reachability:](https://github.com/tonymillion/Reachability)网络相关状态监测，支持Block，使用时重命名以防审核被拒<br>
 其他 - [Reachability:](https://developer.apple.com/library/prerelease/ios/samplecode/Reachability/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007324-Intro-DontLinkElementID_2)苹果官方版本，支持iOS6以上<br>
 
+----------------------------------------------------------------------
+[SDWebImage:](https://github.com/rs/SDWebImage)支持图片的网络请求、显示、缓存，添加了UIImageView类目<br>
+其他 - UIImageView+AFNetworking也提供了相似的异步加载图片功能<br>
 
+----------------------------------------------------------------------
+[AFNetworking:](https://github.com/AFNetworking/AFNetworking)强大的网络请求封装，[Mattt Thompson](https://github.com/mattt/)出品，Swift版可使用[Alamofire](https://github.com/Alamofire/Alamofire)<br>
 
 
 
