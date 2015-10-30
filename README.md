@@ -62,11 +62,16 @@
 ----------------------------------------------------------------------
 [TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
 其他 - [MLEmojiLabel:](https://github.com/molon/MLEmojiLabel)自动识别网址、邮箱、表情等<br>
-[Demo1:](https://github.com/mattt/TTTAttributedLabel)（把整段string分割出link链接，里面有动态获取Cell高度的方法）<br>
+[Demo1:](https://github.com/mattt/TTTAttributedLabel)（把整段string分割出link链接，附有动态获取Cell高度的方法）<br>
 
 ----------------------------------------------------------------------
 [FDFullscreenPopGesture:](https://github.com/forkingdog/FDFullscreenPopGesture)全屏滑动pan手势pop返回到一级页面，基于UINavigationController，返回动效贴近源生效果，支持iOS7以上<br>
 其他 - [MLTransition:](https://github.com/molon/MLTransition)相似的pop拖动返回功能，号称用了unpublish的API仍然通过审核，要使用的话还是谨慎一些，不确定将来是否没问题<br>
+
+-----------------------------
+[UITableView-FDTemplateLayoutCell:](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)根据内容动态计算UITableViewCell高度，支持文本+图片的排版<br>
+其他 - [TTTAttributedLabel:](https://github.com/mattt/TTTAttributedLabel)有Cell根据文本内容匹配高度的方法，无图片
+[Demo1:](https://github.com/weida-studio/QQ)（类似QQ聊天界面，纯代码布局）<br>
 
 
 
