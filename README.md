@@ -83,6 +83,7 @@
 [关于Mantle](http://www.cocoachina.com/ios/20150127/11034.html)有相关的介绍和使用方法，[为什么选择Mantle](http://get.ftqq.com/5929.get)<br>
 
 -----------------------------
+[GVUserDefaults:](https://github.com/gangverk/GVUserDefaults)对NSUserDefaults进行了封装，使NSUserDefaults的调用更加轻便<br>
 
 
 
