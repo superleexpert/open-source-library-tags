@@ -76,7 +76,10 @@
 -----------------------------
 [DateTools:](https://github.com/MatthewYork/DateTools)日期工具库，可进行日期和时间的相关操作，支持中文输出<br>
 
-
+[Mantle:](https://github.com/Mantle/Mantle)可以把JSON数据转化成Model模型，构建模型层<br>
+其他 - [JSONModel:](https://github.com/icanzilb/JSONModel)类似的数据模型封装<br>
+[MTLFMDBAdapter:](https://github.com/tanis2000/MTLFMDBAdapter)可用于Mantle和FMDB之间的转换<br>
+[关于Mantle](http://www.cocoachina.com/ios/20150127/11034.html)有相关的介绍和使用方法，[为什么选择Mantle](http://get.ftqq.com/5929.get)<br>
 
 
 
