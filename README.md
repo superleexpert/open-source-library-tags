@@ -70,7 +70,7 @@
 
 -----------------------------
 [UITableView-FDTemplateLayoutCell:](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)根据内容动态计算UITableViewCell高度，支持文本+图片的排版<br>
-其他 - [TTTAttributedLabel:](https://github.com/mattt/TTTAttributedLabel)有Cell根据文本内容匹配高度的方法，无图片
+其他 - [TTTAttributedLabel:](https://github.com/mattt/TTTAttributedLabel)里有Cell根据文本内容匹配高度的方法，无图片<br>
 [Demo1:](https://github.com/weida-studio/QQ)（类似QQ聊天界面，纯代码布局）<br>
 
 
