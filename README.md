@@ -47,6 +47,7 @@
 [KSImageNamed:](https://github.com/ksuther/KSImageNamed-Xcode)自动提示图片插件，在imageNamed后自动提示预览图片和名称补全功能，提高Coding效率<br>
 [VVDocumenter:](https://github.com/onevcat/VVDocumenter-Xcode)能够快速生成注释文档，Javadoc规范，使用"///"识别<br>
 [CocoaPods:](https://github.com/kattrali/cocoapods-xcode-plugin)关联性管理器，可管理第三方库之间的相互依赖，简化了类库的相互依赖、更新、维护等操作，很多主流类库已托管之上<br>
+[Peckham:](https://github.com/markohlebar/Peckham)自动生成#import引入，可在任意位置触发选择器<br>
 
 ----------------------------------------------------------------------
 [Reachability:](https://github.com/tonymillion/Reachability)网络相关状态监测，支持Block，使用时重命名以防审核被拒<br>
