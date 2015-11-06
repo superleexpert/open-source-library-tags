@@ -86,6 +86,8 @@
 -----------------------------
 [GVUserDefaults:](https://github.com/gangverk/GVUserDefaults)对NSUserDefaults进行了封装，使NSUserDefaults的调用更加轻便<br>
 
+-----------------------------
+[FCFileManager:](https://github.com/fabiocaccamo/FCFileManager)对NSFileManager的扩展封装，使文件的操作更加简便<br>
 
 
 
