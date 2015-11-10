@@ -94,6 +94,8 @@
 其他 - [TouchJSON:](https://github.com/TouchCode/TouchJSON)类似功能的JSON解析类库<br>
 NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
+-----------------------------
+[Shimmer:](https://github.com/facebook/Shimmer)动态的闪烁效果，可用作标题或加载指示器，facebook出品<br>
 
 
 
