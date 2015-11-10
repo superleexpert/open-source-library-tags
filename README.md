@@ -90,9 +90,9 @@
 [FCFileManager:](https://github.com/fabiocaccamo/FCFileManager)对NSFileManager的扩展封装，使文件的操作更加简便<br>
 
 -----------------------------
-[JSONKit:](https://github.com/johnezang/JSONKit)JSON数据解析、序列化JSON，常被用作库之前的依赖<br>
+[JSONKit:](https://github.com/johnezang/JSONKit)JSON数据解析、序列化JSON，常被用作库之间的依赖<br>
 其他 - [TouchJSON:](https://github.com/TouchCode/TouchJSON)类似功能的JSON解析类库<br>
-NSJSONSerialization是苹果iOS5之后提供的自带解析<br>
+NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
 
 
