@@ -97,6 +97,10 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [Shimmer:](https://github.com/facebook/Shimmer)动态的闪烁效果，可用作标题或加载指示器，facebook出品<br>
 
+-----------------------------
+[CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)侧拉菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
+
+
 
 
 
