@@ -100,6 +100,9 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)侧拉菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
 
+-----------------------------
+[iCarousel:](https://github.com/nicklockwood/iCarousel)旋转木马的视图切换效果，包括CoverFlow、TimeMachine等3D效果，可用作对ViewController的管理器<br>
+
 
 
 
