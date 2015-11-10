@@ -107,6 +107,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [SDVersion:](https://github.com/sebyddd/SDVersion)可检测设备版本和屏幕尺寸，包含了iOS和Mac OS的轻量级工具库<br>
 
+-----------------------------
+[VPImageCropper:](https://github.com/windshg/VPImageCropper)图片选择器，可拍照或图库选择，获取后可编辑图片位置，返回头像形圆图<br>
 
 
 
