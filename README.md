@@ -125,7 +125,11 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [NJKWebViewProgress:](https://github.com/ninjinkun/NJKWebViewProgress)实现了UIWebView的加载进度条显示<br>
 
+-----------------------------
+[SwipeView:](https://github.com/nicklockwood/SwipeView)水平方向滚动视图加载，基于UIScrollView，可实现动态加载效果<br>
 
+-----------------------------
+[TMCache:](https://github.com/tumblr/TMCache)缓存数据解决方案，可以缓存到Memory或者Disk<br>
 
 
 
