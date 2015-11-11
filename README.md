@@ -117,6 +117,9 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [Color:](https://github.com/thisandagain/color)UIColor颜色设置的封装，包含RGB等<br>
 其他 - [iOS7Colors:](https://github.com/claaslange/iOS7Colors)iOS7下颜色的设置，UIColor类目下类方法实现<br>
 
+-----------------------------
+[FRDLivelyButton:](https://github.com/sebastienwindal/FRDLivelyButton)扁平风格导航按钮，有菜单、关闭、添加等图形，切换间具有动画效果，UIButton的子类封装<br>
+其他 - [TBIconTransitionKit:](https://github.com/AlexeyBelezeko/TBIconTransitionKit)类似的icon动画切换效果，有不同的过度方式<br>
 
 
 
