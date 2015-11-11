@@ -122,6 +122,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [FRDLivelyButton:](https://github.com/sebastienwindal/FRDLivelyButton)扁平风格导航按钮，有菜单、关闭、添加等图形，切换间具有动画效果，UIButton的子类封装<br>
 其他 - [TBIconTransitionKit:](https://github.com/AlexeyBelezeko/TBIconTransitionKit)类似的icon动画切换效果，有不同的过度方式<br>
 
+-----------------------------
+[NJKWebViewProgress:](https://github.com/ninjinkun/NJKWebViewProgress)实现了UIWebView的加载进度条显示<br>
 
 
 
