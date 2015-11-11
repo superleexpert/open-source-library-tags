@@ -98,8 +98,9 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [Shimmer:](https://github.com/facebook/Shimmer)动态的闪烁效果，可用作标题或加载指示器，facebook出品<br>
 
 -----------------------------
-[MMDrawerController:](https://github.com/mutualmobile/MMDrawerController)测拉菜单，预览视图、距离等属性可直接调整，事件处理有block回调，易扩展<br>
-其他 - [CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)左侧菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
+[MMDrawerController:](https://github.com/mutualmobile/MMDrawerController)测拉下浮层菜单，预览视图、距离等属性可直接调整，事件处理有block回调，易扩展<br>
+其他 - [CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)左侧下浮层菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
+[REFrostedViewController:](https://github.com/romaonthego/REFrostedViewController)左侧上浮层菜单，具有iOS7之后的模糊效果，实现了拖动和点击<br>
 
 -----------------------------
 [iCarousel:](https://github.com/nicklockwood/iCarousel)旋转木马的视图切换效果，包括CoverFlow、TimeMachine等3D效果，可用作对ViewController集合的管理器<br>
