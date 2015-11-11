@@ -98,7 +98,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [Shimmer:](https://github.com/facebook/Shimmer)动态的闪烁效果，可用作标题或加载指示器，facebook出品<br>
 
 -----------------------------
-[MMDrawerController:](https://github.com/mutualmobile/MMDrawerController)测拉菜单，预览视图、距离等属性可直接调整，事件处理有block回调<br>
+[MMDrawerController:](https://github.com/mutualmobile/MMDrawerController)测拉菜单，预览视图、距离等属性可直接调整，事件处理有block回调，易扩展<br>
 其他 - [CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)左侧菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
 
 -----------------------------
@@ -108,7 +108,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [SDVersion:](https://github.com/sebyddd/SDVersion)可检测设备版本和屏幕尺寸，包含了iOS和Mac OS的轻量级工具库<br>
 
 -----------------------------
-[VPImageCropper:](https://github.com/windshg/VPImageCropper)图片选择器，可拍照或图库选择，获取后可编辑图片位置，返回头像形圆图<br>
+[VPImageCropper:](https://github.com/windshg/VPImageCropper)图片选择器，可拍照或从图库选择，获取后可编辑图片位置，返回头像形圆图<br>
 
 
 
