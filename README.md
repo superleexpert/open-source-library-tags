@@ -99,7 +99,10 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
 -----------------------------
 [MMDrawerController:](https://github.com/mutualmobile/MMDrawerController)测拉下浮层菜单，预览视图、距离等属性可直接调整，事件处理有block回调，易扩展<br>
-其他 - [CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)左侧下浮层菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
+其他 - [ViewDeck:](https://github.com/ViewDeck/ViewDeck)左右侧下浮层菜单，类似Path2.0的侧滑效果<br>
+[CSDrawerController:](https://github.com/icecreamstudios/ICSDrawerController)左侧下浮层菜单，支持点击和手势操作，回调代理有返回状态，支持iOS7以上<br>
+[MSDynamicsDrawerViewController:](https://github.com/erichoracek/MSDynamicsDrawerViewController)左侧下浮层菜单，具有弹性效果<br>
+[ECSlidingViewController:](https://github.com/ECSlidingViewController/ECSlidingViewController)左侧上浮层菜单，类似的视图控制器<br>
 [REFrostedViewController:](https://github.com/romaonthego/REFrostedViewController)左侧上浮层菜单，具有iOS7之后的模糊效果，实现了拖动和点击<br>
 
 -----------------------------
@@ -131,5 +134,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [TMCache:](https://github.com/tumblr/TMCache)缓存数据解决方案，可以缓存到Memory或者Disk<br>
 
+-----------------------------
+[SlackTextViewController:](https://github.com/slackhq/SlackTextViewController)滑动视图下方文字输入框高度自适应，可复制单元格内容等<br>
 
 
