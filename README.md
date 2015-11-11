@@ -137,4 +137,10 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [SlackTextViewController:](https://github.com/slackhq/SlackTextViewController)滑动视图下方文字输入框高度自适应，可复制单元格内容等<br>
 
+-----------------------------
+[FXBlurView:](https://github.com/nicklockwood/FXBlurView)通过UIView的子类，提供了视图的模糊、虚化效果<br>
+
+
+
+
 
