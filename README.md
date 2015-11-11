@@ -110,6 +110,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [VPImageCropper:](https://github.com/windshg/VPImageCropper)图片选择器，可拍照或从图库选择，获取后可编辑图片位置，返回头像形圆图<br>
 
+-----------------------------
+[KNSemiModalViewController:](https://github.com/kentnguyen/KNSemiModalViewController)实现缩放ViewController后弹出半模态视图，带有叠加动画，可用作底部弹出分享面板、工具栏等<br>
 
 
 
