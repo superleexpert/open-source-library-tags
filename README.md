@@ -113,6 +113,11 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [KNSemiModalViewController:](https://github.com/kentnguyen/KNSemiModalViewController)实现缩放ViewController后弹出半模态视图，带有叠加动画，可用作底部弹出分享面板、工具栏等<br>
 
+-----------------------------
+[Color:](https://github.com/thisandagain/color)UIColor颜色设置的封装，包含RGB等<br>
+其他 - [iOS7Colors:](https://github.com/claaslange/iOS7Colors)iOS7下颜色的设置，UIColor类目下类方法实现<br>
+
+
 
 
 
