@@ -50,6 +50,9 @@
 [Peckham:](https://github.com/markohlebar/Peckham)自动生成#import引入，可在任意位置触发选择器<br>
 
 ----------------------------------------------------------------------
+[dSYM:](https://github.com/answer-huang/dSYMTools)线上App定位bug工具，通过出错的函数地址去查询dSYM文件中程序对应的函数名和文件名<br>
+
+----------------------------------------------------------------------
 [Reachability:](https://github.com/tonymillion/Reachability)网络相关状态监测，支持Block，使用时重命名以防审核被拒<br>
 其他 - [Reachability:](https://developer.apple.com/library/prerelease/ios/samplecode/Reachability/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007324-Intro-DontLinkElementID_2)苹果官方版本，支持iOS6以上<br>
 
