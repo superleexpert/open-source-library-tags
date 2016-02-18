@@ -1,4 +1,4 @@
-###Mark下使用到的开源类库以便总结查看
+###Mark下使用到的开源类库、工具以便总结查看
 ----------------------------------------------------------------------
 [FMDB:](https://github.com/ccgus/fmdb)开源数据库，对SQLite进行了封装，可直接使用或二次封装<br>
 其他 - 使用过Sqlite，需要手动进行封装，前者更易用<br>
@@ -143,6 +143,9 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [FXBlurView:](https://github.com/nicklockwood/FXBlurView)通过UIView的子类，提供了视图的模糊、虚化效果<br>
 [VVBlurPresentation:](https://github.com/onevcat/VVBlurPresentation)基于ViewController，喵神出品<br>
+
+-----------------------------
+[Knuff:](https://github.com/KnuffApp/Knuff)苹果推送通知APNs调试工具<br>
 
 -
 
