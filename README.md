@@ -150,6 +150,10 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [MMNumberKeyboard:](https://github.com/matmartinez/MMNumberKeyboard)一款自定义的简洁数字键盘，包含小数点“.”，继承于UIInputView，支持iOS7以上<br>
 
+-----------------------------
+[MWPhotoBrowser:](https://github.com/mwaterfall/MWPhotoBrowser)照片选择和浏览控件<br>
+其他 - [CTAssetsPickerController:](https://github.com/chiunam/CTAssetsPickerController)图片选择器组件，支持从图片库选择多张图片<br>
+
 -
 
 
