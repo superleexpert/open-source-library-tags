@@ -18,7 +18,8 @@
 [Demo1:](https://github.com/superleexpert/AutoLayoutTest)（AutoLayout测试，使用UIScrollView时注意"建立一个与UIScrollview的父视图MainView相同EqualWidth,EqualHeight的约束）<br>
 
 -----------------------------
-[UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
+[SSKeychain:](https://github.com/soffes/SSKeychain)封装Keychain<br>
+其他 - [UICKeyChainStore:](https://github.com/kishikawakatsumi/UICKeyChainStore)可存储信息到Keychain，删除App后依然存在<br>
 
 ----------------------------------------------------------------------
 [ZXingObjC:](https://github.com/TheLevelUp/ZXingObjC)二维码、条形码扫描识别解决方案，可设置可视区域<br>
