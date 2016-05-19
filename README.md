@@ -163,6 +163,10 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [ZYCornerRadius:](https://github.com/liuzhiyi1992/ZYCornerRadius)实现设置圆角，两种工作方式：Category和UIImageView子类<br>
 
-[JDStatusBarNotification:](https://github.com/jaydee3/JDStatusBarNotification)status bar弹出通知、loading状态<br>
+-----------------------------
+[JDStatusBarNotification:](https://github.com/jaydee3/JDStatusBarNotification)顶部status bar弹出通知、loading状态<br>
+
+-----------------------------
+[WebViewJavascriptBridge:](https://github.com/marcuswestin/WebViewJavascriptBridge)OC和JS的互相调用，适用于UIWebView和native通信<br>
 
 -
