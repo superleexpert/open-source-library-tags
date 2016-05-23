@@ -158,13 +158,14 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [TZImagePickerController:](https://github.com/banchichen/TZImagePickerController)支持多选、选原图和视频的图片选择器<br>
 
 -----------------------------
-[SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限循环图片轮播器,使用了UICollectionView实现<br>
+[SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限循环图片轮播器,使用了UICollectionView实现，可用于焦点图<br>
 
 -----------------------------
 [ZYCornerRadius:](https://github.com/liuzhiyi1992/ZYCornerRadius)实现设置圆角，两种工作方式：Category和UIImageView子类<br>
 
 -----------------------------
 [JDStatusBarNotification:](https://github.com/jaydee3/JDStatusBarNotification)顶部status bar弹出通知、loading状态<br>
+[MTStatusBarOverlay:](https://github.com/myell0w/MTStatusBarOverlay)顶部status bar显示消息的开源库<br>
 
 -----------------------------
 [WebViewJavascriptBridge:](https://github.com/marcuswestin/WebViewJavascriptBridge)OC和JS的互相调用，适用于UIWebView和native通信<br>
