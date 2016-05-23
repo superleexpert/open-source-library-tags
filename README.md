@@ -165,7 +165,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
 -----------------------------
 [JDStatusBarNotification:](https://github.com/jaydee3/JDStatusBarNotification)顶部status bar弹出通知、loading状态<br>
-[MTStatusBarOverlay:](https://github.com/myell0w/MTStatusBarOverlay)顶部status bar显示消息的开源库<br>
+其他 - [MTStatusBarOverlay:](https://github.com/myell0w/MTStatusBarOverlay)顶部status bar显示消息的开源库<br>
 
 -----------------------------
 [WebViewJavascriptBridge:](https://github.com/marcuswestin/WebViewJavascriptBridge)OC和JS的互相调用，适用于UIWebView和native通信<br>
