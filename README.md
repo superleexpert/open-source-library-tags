@@ -51,6 +51,7 @@
 [VVDocumenter:](https://github.com/onevcat/VVDocumenter-Xcode)能够快速生成注释文档，Javadoc规范，使用"///"识别<br>
 [CocoaPods:](https://github.com/kattrali/cocoapods-xcode-plugin)关联性管理器，可管理第三方库之间的相互依赖，简化了类库的相互依赖、更新、维护等操作，很多主流类库已托管之上<br>
 [Peckham:](https://github.com/markohlebar/Peckham)自动生成#import引入，可在任意位置触发选择器<br>
+[FastStub:](https://github.com/music4kid/FastStub-Xcode)快速生成delegate、.m实现方法、init方法等<br>
 
 ----------------------------------------------------------------------
 [dSYM:](https://github.com/answer-huang/dSYMTools)线上App定位bug工具，通过出错的函数地址去查询dSYM文件中程序对应的函数名和文件名<br>
