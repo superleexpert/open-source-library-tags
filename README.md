@@ -173,4 +173,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [WebViewJavascriptBridge:](https://github.com/marcuswestin/WebViewJavascriptBridge)OC和JS的互相调用，适用于UIWebView和native通信<br>
 其他 - [JSPatch:](https://github.com/bang590/JSPatch)OC和JS之间的桥接，使用OC的Runtime<br>
 
+-----------------------------
+[MJRefresh:](https://github.com/CoderMJLee/MJRefresh)多种下拉刷新支持及扩展<br>
+其他 - [SVPullToRefresh:](https://github.com/samvermette/SVPullToRefresh)下拉刷新控件，会通过KVO监听contentOffset<br>
+
 -
