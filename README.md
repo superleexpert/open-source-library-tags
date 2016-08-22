@@ -138,7 +138,6 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [SwipeView:](https://github.com/nicklockwood/SwipeView)轮播器或水平方向滚动视图加载，基于UIScrollView，可实现动态加载效果<br>
 其他 - [SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限循环图片轮播器,使用了UICollectionView实现，可用于焦点图<br>
-<br>
 
 -----------------------------
 [TMCache:](https://github.com/tumblr/TMCache)缓存数据解决方案，可以缓存到Memory或者Disk<br>
