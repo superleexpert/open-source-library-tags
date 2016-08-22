@@ -136,7 +136,9 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [NJKWebViewProgress:](https://github.com/ninjinkun/NJKWebViewProgress)实现了UIWebView的加载进度条显示<br>
 
 -----------------------------
-[SwipeView:](https://github.com/nicklockwood/SwipeView)水平方向滚动视图加载，基于UIScrollView，可实现动态加载效果<br>
+[SwipeView:](https://github.com/nicklockwood/SwipeView)轮播器或水平方向滚动视图加载，基于UIScrollView，可实现动态加载效果<br>
+其他 - [SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限循环图片轮播器,使用了UICollectionView实现，可用于焦点图<br>
+<br>
 
 -----------------------------
 [TMCache:](https://github.com/tumblr/TMCache)缓存数据解决方案，可以缓存到Memory或者Disk<br>
@@ -158,9 +160,6 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [MWPhotoBrowser:](https://github.com/mwaterfall/MWPhotoBrowser)照片选择和浏览控件<br>
 其他 - [CTAssetsPickerController:](https://github.com/chiunam/CTAssetsPickerController)图片选择器组件，支持从图片库选择多张图片<br>
 [TZImagePickerController:](https://github.com/banchichen/TZImagePickerController)支持多选、选原图和视频的图片选择器<br>
-
------------------------------
-[SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限循环图片轮播器,使用了UICollectionView实现，可用于焦点图<br>
 
 -----------------------------
 [ZYCornerRadius:](https://github.com/liuzhiyi1992/ZYCornerRadius)实现设置圆角，两种工作方式：Category和UIImageView子类<br>
