@@ -175,4 +175,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [MJRefresh:](https://github.com/CoderMJLee/MJRefresh)多种下拉刷新支持及扩展<br>
 其他 - [SVPullToRefresh:](https://github.com/samvermette/SVPullToRefresh)下拉刷新控件，会通过KVO监听contentOffset<br>
 
+-----------------------------
+[ZipArchive:](https://github.com/ZipArchive/ZipArchive)Zip解压、压缩方案，包括密码保护的Zip包<br>
+
 -
