@@ -9,3 +9,6 @@
 [Kingfisher:](https://github.com/onevcat/Kingfisher)轻量级下载图片、缓存<br>
 
 ----------------------------------------------------------------------
+[AlamofireObjectMapper:](https://github.com/tristanhimmelman/AlamofireObjectMapper)将Alamofire JSON响应数据 转为Swift对象<br>
+
+----------------------------------------------------------------------
