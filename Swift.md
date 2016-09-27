@@ -12,3 +12,6 @@
 [AlamofireObjectMapper:](https://github.com/tristanhimmelman/AlamofireObjectMapper)将Alamofire JSON响应数据 转为Swift对象<br>
 
 ----------------------------------------------------------------------
+[HanekeSwift:](https://github.com/Haneke/HanekeSwift)轻量级JSON缓存，支持格式UIImage、NSData、JSON、String等<br>
+
+
