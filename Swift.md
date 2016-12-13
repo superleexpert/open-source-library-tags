@@ -15,4 +15,6 @@
 ----------------------------------------------------------------------
 [HanekeSwift:](https://github.com/Haneke/HanekeSwift)轻量级JSON缓存，支持格式UIImage、NSData、JSON、String等<br>
 
+----------------------------------------------------------------------
+[SideMenu:](https://github.com/jonkykong/SideMenu)左右侧边栏<br>
 
