@@ -18,3 +18,6 @@
 ----------------------------------------------------------------------
 [SideMenu:](https://github.com/jonkykong/SideMenu)左右侧边栏<br>
 
+----------------------------------------------------------------------
+[SQLite.swift:](https://github.com/stephencelis/SQLite.swift)SQLite3操作框架<br>
+
