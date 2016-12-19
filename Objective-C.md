@@ -178,4 +178,7 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [ZipArchive:](https://github.com/ZipArchive/ZipArchive)Zip解压、压缩方案，包括密码保护的Zip包<br>
 
+-----------------------------
+[PYSearch:](https://github.com/iphone5solo/PYSearch)搜索视图控制器<br>
+
 -
