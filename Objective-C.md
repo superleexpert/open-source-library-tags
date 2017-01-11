@@ -43,6 +43,7 @@
 ----------------------------------------------------------------------
 [MBProgressHUD:](https://github.com/jdg/MBProgressHUD)任务进行时的Loading显示状态，可用于页面加载、请求数据等<br>
 其他 - [SVProgressHUD:](https://github.com/TransitApp/SVProgressHUD)类似的加载过程显示组件，显示样式不同于前者<br>
+[M13ProgressSuite:](https://github.com/Marxon13/M13ProgressSuite)加载进度套装组件<br>
 [MRProgress:](https://github.com/mrackwitz/MRProgress)类似的加载显示组件，可获取进度百分比<br>
 
 ----------------------------------------------------------------------
