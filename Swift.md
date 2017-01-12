@@ -21,3 +21,8 @@
 ----------------------------------------------------------------------
 [SQLite.swift:](https://github.com/stephencelis/SQLite.swift)SQLite3操作框架<br>
 
+----------------------------------------------------------------------
+[Hero:](https://github.com/lkzhao/Hero)出色的动画过渡库<br>
+其他 - [Stellar:](https://github.com/AugustRush/Stellar)漂亮的物理动画库<br>
+
+
