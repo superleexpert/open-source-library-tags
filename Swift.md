@@ -25,4 +25,10 @@
 [Hero:](https://github.com/lkzhao/Hero)出色的动画过渡库<br>
 其他 - [Stellar:](https://github.com/AugustRush/Stellar)漂亮的物理动画库<br>
 
+----------------------------------------------------------------------
+[SwiftCharts:](https://github.com/i-schuetz/SwiftCharts)可定制的图表生成<br>
+
+----------------------------------------------------------------------
+[SwiftyUtils:](https://github.com/tbaranes/SwiftyUtils)Swift复用、扩展代码工具<br>
+
 
