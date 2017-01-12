@@ -35,4 +35,7 @@
 ----------------------------------------------------------------------
 [animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
 
+----------------------------------------------------------------------
+[LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
+
 
