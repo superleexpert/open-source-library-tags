@@ -40,4 +40,9 @@
 ----------------------------------------------------------------------
 [LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
 
+----------------------------------------------------------------------
+[SwiftyStoreKit:](https://github.com/bizz84/SwiftyStoreKit)轻量级IAP框架库<br>
+
+
+
 
