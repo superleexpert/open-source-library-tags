@@ -29,7 +29,8 @@
 [Spring:](https://github.com/MengTo/Spring)简化iOS动画库<br>
 
 ----------------------------------------------------------------------
-[SwiftCharts:](https://github.com/i-schuetz/SwiftCharts)可定制的图表生成<br>
+[Charts:](https://github.com/danielgindi/Charts)跨平台图表类库<br>
+其他 - [SwiftCharts:](https://github.com/i-schuetz/SwiftCharts)可定制的图表生成<br>
 
 ----------------------------------------------------------------------
 [SwiftyUtils:](https://github.com/tbaranes/SwiftyUtils)Swift复用、扩展代码工具<br>
@@ -42,6 +43,10 @@
 
 ----------------------------------------------------------------------
 [SwiftyStoreKit:](https://github.com/bizz84/SwiftyStoreKit)轻量级IAP框架库<br>
+
+----------------------------------------------------------------------
+[FileKit:](https://github.com/nvzqz/FileKit)简单快捷的文件管理工具<br>
+其他 - [Files:](https://github.com/JohnSundell/Files)对目录文件进行便捷操作<br>
 
 
 
