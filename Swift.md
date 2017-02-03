@@ -34,6 +34,7 @@
 
 ----------------------------------------------------------------------
 [SwiftyUtils:](https://github.com/tbaranes/SwiftyUtils)Swift复用、扩展代码工具<br>
+其他 - [SwifterSwift:](https://github.com/SwifterSwift/SwifterSwift)Swift3 extensions<br>
 
 ----------------------------------------------------------------------
 [animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
