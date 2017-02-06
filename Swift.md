@@ -37,6 +37,9 @@
 其他 - [SwifterSwift:](https://github.com/SwifterSwift/SwifterSwift)Swift3 extensions<br>
 
 ----------------------------------------------------------------------
+[swift-algorithm-club:](https://github.com/raywenderlich/swift-algorithm-club)算法和数据结构<br>
+
+----------------------------------------------------------------------
 [animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
 
 ----------------------------------------------------------------------
