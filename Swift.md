@@ -56,4 +56,7 @@
 ----------------------------------------------------------------------
 [SCLAlertView-Swift:](https://github.com/vikmeup/SCLAlertView-Swift)漂亮的AlertView<br>
 
+----------------------------------------------------------------------
+[NVActivityIndicatorView:](https://github.com/ninjaprox/NVActivityIndicatorView)loading加载动画<br>
+
 
