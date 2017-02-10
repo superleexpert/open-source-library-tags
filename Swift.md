@@ -50,6 +50,9 @@
 [SwiftyStoreKit:](https://github.com/bizz84/SwiftyStoreKit)轻量级IAP框架库<br>
 
 ----------------------------------------------------------------------
+[DeviceKit:](https://github.com/dennisweissmann/DeviceKit)设备管理操作，可替代UIDevice<br>
+
+----------------------------------------------------------------------
 [FileKit:](https://github.com/nvzqz/FileKit)简单快捷的文件管理工具<br>
 其他 - [Files:](https://github.com/JohnSundell/Files)对目录文件进行便捷操作<br>
 
