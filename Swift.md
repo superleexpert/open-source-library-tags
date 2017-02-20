@@ -61,6 +61,9 @@
 [SCLAlertView-Swift:](https://github.com/vikmeup/SCLAlertView-Swift)漂亮的AlertView<br>
 
 ----------------------------------------------------------------------
+[XLActionController:](https://github.com/xmartlabs/XLActionController)extensible action sheet，多样弹出式菜单<br>
+
+----------------------------------------------------------------------
 [NVActivityIndicatorView:](https://github.com/ninjaprox/NVActivityIndicatorView)loading加载动画<br>
 
 
