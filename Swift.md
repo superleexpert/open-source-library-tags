@@ -40,14 +40,6 @@
 [swift-algorithm-club:](https://github.com/raywenderlich/swift-algorithm-club)算法和数据结构<br>
 
 ----------------------------------------------------------------------
-[animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
-其他 - [ESTabBarController:](https://github.com/eggswift/ESTabBarController)UITabBar封装，可添加动画<br>
-
-----------------------------------------------------------------------
-[LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
-其他 - [ActiveLabel.swift:](https://github.com/optonaut/ActiveLabel.swift)UILabel识别#、@、http://<br>
-
-----------------------------------------------------------------------
 [SwiftyStoreKit:](https://github.com/bizz84/SwiftyStoreKit)轻量级IAP框架库<br>
 
 ----------------------------------------------------------------------
@@ -58,6 +50,14 @@
 其他 - [Files:](https://github.com/JohnSundell/Files)对目录文件进行便捷操作<br>
 
 ----------------------------------------------------------------------
+[animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
+其他 - [ESTabBarController:](https://github.com/eggswift/ESTabBarController)UITabBar封装，可添加动画<br>
+
+----------------------------------------------------------------------
+[LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
+其他 - [ActiveLabel.swift:](https://github.com/optonaut/ActiveLabel.swift)UILabel识别#、@、http://<br>
+
+----------------------------------------------------------------------
 [SCLAlertView-Swift:](https://github.com/vikmeup/SCLAlertView-Swift)漂亮的AlertView<br>
 
 ----------------------------------------------------------------------
@@ -65,6 +65,7 @@
 
 ----------------------------------------------------------------------
 [NVActivityIndicatorView:](https://github.com/ninjaprox/NVActivityIndicatorView)loading加载动画<br>
+其他 - [DSGradientProgressView:](https://github.com/DholStudio/DSGradientProgressView)过程加载progress动画效果<br>
 
 ----------------------------------------------------------------------
 [folding-cell:](https://github.com/Ramotion/folding-cell)通过纸折叠展开的效果扩展cell的内容<br>
