@@ -66,4 +66,9 @@
 ----------------------------------------------------------------------
 [NVActivityIndicatorView:](https://github.com/ninjaprox/NVActivityIndicatorView)loading加载动画<br>
 
+----------------------------------------------------------------------
+[SwipeCellKit:](https://github.com/jerkoch/SwipeCellKit)UITableViewCell拖拽动效，可以有多个选项<br>
+
+----------------------------------------------------------------------
+[WCLShineButton:](https://github.com/631106979/WCLShineButton)UIButton的点赞、触发动画<br>
 
