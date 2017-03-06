@@ -78,3 +78,6 @@
 ----------------------------------------------------------------------
 [WCLShineButton:](https://github.com/631106979/WCLShineButton)UIButton的点赞、触发动画<br>
 
+----------------------------------------------------------------------
+[CKWaveCollectionViewTransition:](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)UICollectionView波浪转场动画<br>
+
