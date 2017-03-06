@@ -73,6 +73,7 @@
 ----------------------------------------------------------------------
 [folding-cell:](https://github.com/Ramotion/folding-cell)通过纸折叠展开的效果扩展cell的内容<br>
 其他 - [SwipeCellKit:](https://github.com/jerkoch/SwipeCellKit)UITableViewCell拖拽动效，可以有多个选项<br>
+[elongation-preview:](https://github.com/Ramotion/elongation-preview)push、pop view controller转场动画<br>
 
 ----------------------------------------------------------------------
 [WCLShineButton:](https://github.com/631106979/WCLShineButton)UIButton的点赞、触发动画<br>
