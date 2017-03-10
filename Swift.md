@@ -57,6 +57,9 @@
 其他 - [ESTabBarController:](https://github.com/eggswift/ESTabBarController)UITabBar封装，可添加动画<br>
 
 ----------------------------------------------------------------------
+[ETNavBarTransparent:](https://github.com/EnderTan/ETNavBarTransparent)NavigationBar转换场景、过渡动画<br>
+
+----------------------------------------------------------------------
 [LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
 其他 - [ActiveLabel.swift:](https://github.com/optonaut/ActiveLabel.swift)UILabel识别#、@、http://<br>
 
