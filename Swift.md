@@ -19,9 +19,13 @@
 ----------------------------------------------------------------------
 [SideMenu:](https://github.com/jonkykong/SideMenu)左右侧边栏<br>
 其他 - [SwiftSideslipLikeQQ:](https://github.com/johnlui/SwiftSideslipLikeQQ)类似QQ侧滑菜单<br>
+[ETNavBarTransparent:](https://github.com/EnderTan/ETNavBarTransparent)NavigationBar转换场景、过渡动画<br>
 
 ----------------------------------------------------------------------
 [YNDropDownMenu:](https://github.com/younatics/YNDropDownMenu)向下弹出式菜单<br>
+
+----------------------------------------------------------------------
+[PageMenu:](https://github.com/uacaps/PageMenu)左右滑动的Page menu导航菜单<br>
 
 ----------------------------------------------------------------------
 [SQLite.swift:](https://github.com/stephencelis/SQLite.swift)SQLite3操作框架<br>
@@ -56,9 +60,6 @@
 ----------------------------------------------------------------------
 [animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
 其他 - [ESTabBarController:](https://github.com/eggswift/ESTabBarController)UITabBar封装，可添加动画<br>
-
-----------------------------------------------------------------------
-[ETNavBarTransparent:](https://github.com/EnderTan/ETNavBarTransparent)NavigationBar转换场景、过渡动画<br>
 
 ----------------------------------------------------------------------
 [LTMorphingLabel:](https://github.com/lexrus/LTMorphingLabel)UILabel优雅的渐变、过渡效果<br>
