@@ -86,3 +86,6 @@
 ----------------------------------------------------------------------
 [CKWaveCollectionViewTransition:](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)UICollectionView波浪转场动画<br>
 
+----------------------------------------------------------------------
+[PhoneNumberKit:](https://github.com/marmelroy/PhoneNumberKit)格式化验证手机号<br>
+
