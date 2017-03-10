@@ -51,6 +51,7 @@
 ----------------------------------------------------------------------
 [FileKit:](https://github.com/nvzqz/FileKit)简单快捷的文件管理工具<br>
 其他 - [Files:](https://github.com/JohnSundell/Files)对目录文件进行便捷操作<br>
+[JSUStockChat:](https://github.com/BestSwift/JSUStockChat)类似股票图标展示<br>
 
 ----------------------------------------------------------------------
 [animated-tab-bar:](https://github.com/Ramotion/animated-tab-bar)带动画的TabBar控件<br>
