@@ -2,6 +2,7 @@
 ----------------------------------------------------------------------
 [FMDB:](https://github.com/ccgus/fmdb)开源数据库，对SQLite进行了封装，可直接使用或二次封装<br>
 其他 - 使用过Sqlite，需要手动进行封装，前者更易用<br>
+[WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) - 数据库存储解决方案，简单操作<br>
 [realm](https://github.com/realm/realm-cocoa) - 针对移动应用设计<br>
 [JRDB:](https://github.com/scubers/JRDB)对FMDB的封装，支持Objective-C和Swift<br>
 [Demo1:](https://github.com/tangqiaoboy/FmdbSample)（表单创建、索引、删除，多线程）<br>
