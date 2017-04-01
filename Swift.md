@@ -91,4 +91,7 @@
 
 ----------------------------------------------------------------------
 [PullToBounce:](https://github.com/entotsu/PullToBounce)下拉刷新动画for UIScrollView<br>
+其他 - [BreakOutToRefresh:](https://github.com/dasdom/BreakOutToRefresh)撞击球消除游戏刷新<br>
+[CBPullToReflesh:](https://github.com/cbangchen/CBPullToReflesh)类似谷歌新闻的下拉刷新控件<br>
+[ADChromePullToRefresh:](https://github.com/Antondomashnev/ADChromePullToRefresh)下拉刷新可左右选择控件<br>
 
