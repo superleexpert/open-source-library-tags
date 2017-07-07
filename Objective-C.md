@@ -67,7 +67,12 @@
 其他 - UIImageView+AFNetworking也提供了相似的异步加载图片功能<br>
 
 ----------------------------------------------------------------------
+[RNCachingURLProtocol:](https://github.com/rnapier/RNCachingURLProtocol)WebView的离线缓存<br>
+其他 - [AFCache:](https://github.com/artifacts/AFCache)Http缓存<br>
+
+----------------------------------------------------------------------
 [AFNetworking:](https://github.com/AFNetworking/AFNetworking)强大的网络请求封装，[Mattt Thompson](https://github.com/mattt/)出品，Swift版可使用[Alamofire](https://github.com/Alamofire/Alamofire)<br>
+其他 - [MKNetworkKit:](https://github.com/MugunthKumar/MKNetworkKit)一款轻量级网络请求<br>
 
 ----------------------------------------------------------------------
 [TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
