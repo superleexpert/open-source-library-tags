@@ -21,6 +21,7 @@
 [SideMenu:](https://github.com/jonkykong/SideMenu)左右侧边栏<br>
 其他 - [SwiftSideslipLikeQQ:](https://github.com/johnlui/SwiftSideslipLikeQQ)类似QQ侧滑菜单<br>
 [ETNavBarTransparent:](https://github.com/EnderTan/ETNavBarTransparent)NavigationBar转换场景、过渡动画<br>
+[FAPanels:](https://github.com/fahidattique55/FAPanels)各个方向的侧边栏<br>
 
 ----------------------------------------------------------------------
 [YNDropDownMenu:](https://github.com/younatics/YNDropDownMenu)向下弹出式菜单<br>
