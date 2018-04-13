@@ -32,6 +32,7 @@
 ----------------------------------------------------------------------
 [pop:](https://github.com/facebook/pop)facebook开源动画引擎，支持弹性、衰减动画，功能强大，核心使用CoreAnimation<br>
 其他 - [Canvas:](https://github.com/CanvasPod/Canvas)是一个动画合集，目标"Animate in Xcode Without Code"，对于能够支持的动画效果还算易用，想要扩展有点生硬，[关于二者的比较](http://www.cocoachina.com/industry/20140515/8436.html)<br>
+[lottie-ios:](https://github.com/airbnb/lottie-ios?utm_source=gold_browser_extension)可以将AE动画转换成iOS原生动画的强大库<br>
 
 ----------------------------------------------------------------------
 [CRGradientNavigationBar:](https://github.com/chroman/CRGradientNavigationBar)可任意设置UINavigationBar的背景颜色和渐变效果，继承于UINavigationBar，支持iOS6以上<br>
