@@ -66,6 +66,7 @@
 ----------------------------------------------------------------------
 [SDWebImage:](https://github.com/rs/SDWebImage)支持图片的网络请求、显示、缓存，添加了UIImageView类目<br>
 其他 - UIImageView+AFNetworking也提供了相似的异步加载图片功能<br>
+[LKImageKit:](https://github.com/Tencent/LKImageKit?utm_source=gold_browser_extension)腾讯的一个个高性能的图片框架，包括了图片控件，图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力<br>
 
 ----------------------------------------------------------------------
 [RNCachingURLProtocol:](https://github.com/rnapier/RNCachingURLProtocol)WebView的离线缓存<br>
