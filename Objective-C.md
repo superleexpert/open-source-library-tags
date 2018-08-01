@@ -81,6 +81,7 @@
 [TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
 其他 - [MLEmojiLabel:](https://github.com/molon/MLEmojiLabel)自动识别网址、邮箱、表情等<br>
 [Demo1:](https://github.com/mattt/TTTAttributedLabel)（把整段string分割出link链接，附有动态获取Cell高度的方法）<br>
+[MarqueeLabel:](https://github.com/cbpowell/MarqueeLabel)可以实现文字的滚动效果<br>
 
 ----------------------------------------------------------------------
 [FDFullscreenPopGesture:](https://github.com/forkingdog/FDFullscreenPopGesture)全屏滑动pan手势pop返回到一级页面，基于UINavigationController，返回动效贴近源生效果，支持iOS7以上<br>
