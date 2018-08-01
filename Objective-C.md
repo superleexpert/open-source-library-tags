@@ -47,6 +47,7 @@
 其他 - [SVProgressHUD:](https://github.com/TransitApp/SVProgressHUD)类似的加载过程显示组件，显示样式不同于前者<br>
 [M13ProgressSuite:](https://github.com/Marxon13/M13ProgressSuite)加载进度套装组件<br>
 [MRProgress:](https://github.com/mrackwitz/MRProgress)类似的加载显示组件，可获取进度百分比<br>
+[JazzHands:](https://github.com/IFTTT/JazzHands)帧数动画库，可以结合手势、通知等创建交互式动画.<br>
 
 ----------------------------------------------------------------------
 [Alcatraz:](https://github.com/supermarin/Alcatraz)Xcode包管理工具，可搜索后直接安装\卸载，下面推荐4款好用工具<br>
