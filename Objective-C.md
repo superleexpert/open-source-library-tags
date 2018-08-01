@@ -11,6 +11,7 @@
 [HYBubbleButton:](https://github.com/nathanwhy/HYBubbleButton)向上飘散动画效果，使用CAAnimation配合CGPath路径进行位移动画<br>
 其他 - 类似效果也可使用Dazzle，使用了CAEmitterLayer粒子效果<br>
 [Demo1:](https://github.com/superleexpert/UIButonAnimation)（匹配项目需求，连续点击和长按效果）<br>
+[PPiAwesomeButton:](https://github.com/pepibumur/PPiAwesomeButton)定义Button上的图标和文字<br>
 
 -----------------------------
 [Masonry:](https://github.com/SnapKit/Masonry)布局框架，适合在代码搭建界面使用，系统布局的一种替代方案，有对应Swift版本<br>
