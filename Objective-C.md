@@ -205,3 +205,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
 -----------------------------
 [JSBadgeView:](https://github.com/JaviSoto/JSBadgeView)控件数字显示标识<br>
+
+-----------------------------
+[MQTT-Client-Framework:](https://github.com/novastone-media/MQTT-Client-Framework)MQTT即时通讯协议，可根据topic实现实时通讯与订阅<br>
+其他 - [MQTTKit:](https://github.com/mobile-web-messaging/MQTTKit)类似的MQTT协议封装，停止维护<br>
+
