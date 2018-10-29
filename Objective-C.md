@@ -197,4 +197,8 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [FLEX:](https://github.com/Flipboard/FLEX)修改显示读取运行的控件信息<br>
 
--
+-----------------------------
+[AAChartKit:](https://github.com/AAChartKit/AAChartKit?utm_source=gold_browser_extension)图表组件库,几十种的信息图表<br>
+
+-----------------------------
+[ijkplayer:](https://github.com/Bilibili/ijkplayer)基于FFmpeg的视频播放器、拉流框架<br>
