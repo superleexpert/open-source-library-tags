@@ -202,3 +202,6 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 
 -----------------------------
 [ijkplayer:](https://github.com/Bilibili/ijkplayer)基于FFmpeg的视频播放器、拉流框架<br>
+
+-----------------------------
+[JSBadgeView:](https://github.com/JaviSoto/JSBadgeView)控件数字显示标识<br>
