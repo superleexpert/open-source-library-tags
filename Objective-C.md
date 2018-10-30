@@ -213,3 +213,6 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [JLRoutes:](https://github.com/joeldev/JLRoutes)路由跳转类库<br>
 
+-----------------------------
+[JJException:](https://github.com/jezzmemo/JJException)防止App异常闪退<br>
+其他 - [GYBootingProtection:](https://github.com/liuslevis/GYBootingProtection)启动连续闪退保护<br>
