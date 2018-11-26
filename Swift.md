@@ -101,4 +101,7 @@
 ----------------------------------------------------------------------
 [SDCAlertView:](https://github.com/sberrevoets/SDCAlertView)可自定义内容的AlertView<br>
 
+----------------------------------------------------------------------
+[AMScrollingNavbar:](https://github.com/andreamazz/AMScrollingNavbar)基于scrollView的navigationBar，上下滑动时隐藏显示nav<br>
+
 
