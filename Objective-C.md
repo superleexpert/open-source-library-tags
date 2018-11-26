@@ -216,3 +216,11 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 -----------------------------
 [JJException:](https://github.com/jezzmemo/JJException)防止App异常闪退<br>
 其他 - [GYBootingProtection:](https://github.com/liuslevis/GYBootingProtection)启动连续闪退保护<br>
+
+-----------------------------
+[WMPageController:](https://github.com/wangmchn/WMPageController)分类切换滚动视图<br>
+其他 - [JXCategoryView:](https://github.com/pujiaxin33/JXCategoryView)同上<br>
+[SwipeTableView:](https://github.com/Roylee-ML/SwipeTableView)同上<br>
+[SGPagingView:](https://github.com/kingsic/SGPagingView)同上<br>
+[YNPageViewController:](https://github.com/yongyuandouneng/YNPageViewController)同上<br>
+
