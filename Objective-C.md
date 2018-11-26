@@ -223,4 +223,5 @@ NSJSONSerialization是苹果iOS5之后提供的自带解析API<br>
 [SwipeTableView:](https://github.com/Roylee-ML/SwipeTableView)同上<br>
 [SGPagingView:](https://github.com/kingsic/SGPagingView)同上<br>
 [YNPageViewController:](https://github.com/yongyuandouneng/YNPageViewController)同上<br>
+[HMSegmentedControl:](https://github.com/HeshamMegid/HMSegmentedControl)同上<br>
 
