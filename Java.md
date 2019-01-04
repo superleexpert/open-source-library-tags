@@ -1,4 +1,4 @@
-Android for Java
+Android Component for Java
 ----------------------------------------------------------------------
 [okhttp:](https://github.com/square/okhttp)网络请求库<br>
 else - [volley:](https://github.com/google/volley)network by google<br>
