@@ -1,8 +1,8 @@
 Android Component for Java
 ----------------------------------------------------------------------
-[okhttp:](https://github.com/square/okhttp)网络请求库<br>
+[retrofit:](https://github.com/square/retrofit)square开源网络请求库，在okhttp上进行了封装<br>
 else - [volley:](https://github.com/google/volley)network by google<br>
-[retrofit:](https://github.com/square/retrofit)square开源<br>
+[okhttp:](https://github.com/square/okhttp)网络请求库，也可直接调用<br>
 
 ----------------------------------------------------------------------
 [glide:](https://github.com/bumptech/glide)图片请求加载显示缓存<br>
