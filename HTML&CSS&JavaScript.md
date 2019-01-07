@@ -14,6 +14,9 @@ else - [Ant Design:](https://github.com/ant-design/ant-design)UI设计和前端�
 else - [Sass:](https://github.com/sass/node-sass)动态CSS预编语言，拥有Sass compass生态圈，可直接引入使用，由Ruby编写<br>
 
 ----------------------------------------------------------------------
+[video.js:](https://github.com/videojs/video.js)H5网络视频播放器<br>
+
+----------------------------------------------------------------------
 [axios:](https://github.com/axios/axios)基于Promise的HTTP客户端，专门为浏览器和Node.js服务<br>
 
 ----------------------------------------------------------------------
