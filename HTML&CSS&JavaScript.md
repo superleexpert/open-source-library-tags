@@ -11,7 +11,7 @@ else - [Ant Design:](https://github.com/ant-design/ant-design)UI设计和前端�
 [Angular:](https://github.com/angular/angular)MVC构建框架，by TypeScript<br>
 
 ----------------------------------------------------------------------
-[jQuery:](https://github.com/jquery/jquery)封装了原生JS函数，集成了JS、CSS、DOM和Ajax于一体的强大功能，大量减少的代码，by TypeScript<br>
+[jQuery:](https://github.com/jquery/jquery)封装了原生JS函数，集成了JS、CSS、DOM和Ajax于一体的强大功能，大量减少的代码，by JavaScript<br>
 else - [jQuery UI:](https://github.com/jquery/jquery-ui)建立在jQuery JS库上的一组用户界面交互、特效、小部件及主题<br>
 [jQuery Mobile:](https://github.com/jquery/jquery-mobile)移动Web应用的前端开发框架<br>
 
