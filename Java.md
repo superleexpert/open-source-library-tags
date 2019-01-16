@@ -11,3 +11,6 @@ else - [volley:](https://github.com/google/volley)network by google<br>
 [glide:](https://github.com/bumptech/glide)图片请求加载显示缓存<br>
 else - [fresco:](https://github.com/facebook/fresco)图片请求管理 by facebook<br>
 
+----------------------------------------------------------------------
+[SlidingMenu:](https://github.com/jfeinstein10/SlidingMenu)侧拉抽屉滑出菜单<br>
+else - [FantasySlide:](https://github.com/mzule/FantasySlide)侧滑动态交互菜单<br>
