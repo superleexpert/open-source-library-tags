@@ -78,6 +78,7 @@ else - [AFCache:](https://github.com/artifacts/AFCache)Http缓存<br>
 ----------------------------------------------------------------------
 [AFNetworking:](https://github.com/AFNetworking/AFNetworking)强大的网络请求封装，[Mattt Thompson](https://github.com/mattt/)出品，Swift版可使用[Alamofire](https://github.com/Alamofire/Alamofire)<br>
 else - [MKNetworkKit:](https://github.com/MugunthKumar/MKNetworkKit)一款轻量级网络请求<br>
+[BANetManager:](https://github.com/boai/BANetManager)基于AFNetworking 3.0、3.1最新版本的封装，集成了 get / post / put / delete 方法请求数据，单图/多图上传，视频上传/下载，缓存等<br>
 
 ----------------------------------------------------------------------
 [TTTAttributedLabel:](https://github.com/TTTAttributedLabel/TTTAttributedLabel)渲染字符串，支持链接植入，支持NSAttributedString<br>
