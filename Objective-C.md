@@ -171,7 +171,8 @@ else - [SDCycleScrollView:](https://github.com/gsdios/SDCycleScrollView)无限�
 
 -----------------------------
 [MWPhotoBrowser:](https://github.com/mwaterfall/MWPhotoBrowser)照片选择和浏览控件<br>
-else - [CTAssetsPickerController:](https://github.com/chiunam/CTAssetsPickerController)图片选择器组件，支持从图片库选择多张图片<br>
+else - [GKPhotoBrowser:](https://github.com/QuintGao/GKPhotoBrowser)仿微信、今日头条、简书图片浏览器<br>
+[CTAssetsPickerController:](https://github.com/chiunam/CTAssetsPickerController)图片选择器组件，支持从图片库选择多张图片<br>
 [TZImagePickerController:](https://github.com/banchichen/TZImagePickerController)支持多选、选原图和视频的图片选择器<br>
 [YBImageBrowser:](https://github.com/indulgeIn/YBImageBrowser)图片浏览器，支持视频<br>
 
