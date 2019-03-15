@@ -2,6 +2,9 @@ Frontend Web Library
 ----------------------------------------------------------------------
 [Vue.js:](https://github.com/vuejs/vue)构建用户界面的渐进式MVVM框架，虚拟DOM，双向绑定，by JavaScript<br>
 else - [Element:](https://github.com/ElemeFE/element)基于Vue2.0的桌面端组UI件库<br>
+[vue-router:](https://github.com/vuejs/vue-router)Vue路由<br>
+[vuex:](https://github.com/vuejs/vuex)组件状态管理，集中式存储管理应用的所有组件的状态<br>
+[vue-awesome-swiper:](https://github.com/surmon-china/vue-awesome-swiper)基于Vue的轮播器，数据动态渲染<br>
 
 ----------------------------------------------------------------------
 [React:](https://github.com/facebook/react)用于构建用户界面的JS库，Facebook开发，by JavaScript<br>
