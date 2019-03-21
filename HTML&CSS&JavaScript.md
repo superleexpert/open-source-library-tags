@@ -19,6 +19,9 @@ else - [jQuery UI:](https://github.com/jquery/jquery-ui)建立在jQuery JS库上
 [jQuery Mobile:](https://github.com/jquery/jquery-mobile)移动Web应用的前端开发框架<br>
 
 ----------------------------------------------------------------------
+[Redux:](https://github.com/reduxjs/redux)状态管理容器，集中式的存储和管理所有的组件的状态，并且可以让组件的状态以一种可预测的方式变化<br>
+
+----------------------------------------------------------------------
 [Less:](https://github.com/less/less.js)CSS预处理，动态样式语言，扩展了CSS语言，增加了变量、混入、函数等特性，使CSS更易维护和扩展<br>
 else - [Sass:](https://github.com/sass/node-sass)动态CSS预编语言，拥有Sass compass生态圈，可直接引入使用，由Ruby编写<br>
 [stylus:](https://github.com/stylus/stylus)CSS预处理器<br>
