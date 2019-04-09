@@ -175,6 +175,7 @@ else - [GKPhotoBrowser:](https://github.com/QuintGao/GKPhotoBrowser)仿微信、
 [CTAssetsPickerController:](https://github.com/chiunam/CTAssetsPickerController)图片选择器组件，支持从图片库选择多张图片<br>
 [TZImagePickerController:](https://github.com/banchichen/TZImagePickerController)支持多选、选原图和视频的图片选择器<br>
 [YBImageBrowser:](https://github.com/indulgeIn/YBImageBrowser)图片浏览器，支持视频<br>
+[ZLPhotoBrowser:]https://github.com/longitachi/ZLPhotoBrowser)相册多选框架，支持预览、相册内拍照等<br>
 
 -----------------------------
 [ZYCornerRadius:](https://github.com/liuzhiyi1992/ZYCornerRadius)实现设置圆角，两种工作方式：Category和UIImageView子类<br>
