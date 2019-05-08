@@ -28,6 +28,7 @@ else - [SwiftSideslipLikeQQ:](https://github.com/johnlui/SwiftSideslipLikeQQ)类
 
 ----------------------------------------------------------------------
 [PageMenu:](https://github.com/uacaps/PageMenu)左右滑动的Page menu导航菜单<br>
+else - [XLPagerTabStrip:](https://github.com/xmartlabs/XLPagerTabStrip)顶部导航切换条<br>
 
 ----------------------------------------------------------------------
 [SQLite.swift:](https://github.com/stephencelis/SQLite.swift)SQLite3操作框架<br>
