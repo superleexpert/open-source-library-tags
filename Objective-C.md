@@ -203,6 +203,9 @@ else - [SVPullToRefresh:](https://github.com/samvermette/SVPullToRefresh)下拉�
 [PYSearch:](https://github.com/iphone5solo/PYSearch)搜索视图控制器<br>
 
 -----------------------------
+[XHLaunchAd:](https://github.com/CoderZhuXH/XHLaunchAd)开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告<br>
+
+-----------------------------
 [BRPickerView:](https://github.com/91renb/BRPickerView)选择器：日期、时间、地址选择器、自定义单列字符串、自定义多列字符串<br>
 
 -----------------------------
