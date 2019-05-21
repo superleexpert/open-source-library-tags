@@ -199,6 +199,9 @@ else - [SVPullToRefresh:](https://github.com/samvermette/SVPullToRefresh)下拉�
 [PYSearch:](https://github.com/iphone5solo/PYSearch)搜索视图控制器<br>
 
 -----------------------------
+[BRPickerView:](https://github.com/91renb/BRPickerView)选择器：日期、时间、地址选择器、自定义单列字符串、自定义多列字符串<br>
+
+-----------------------------
 [FLEX:](https://github.com/Flipboard/FLEX)修改显示读取运行的控件信息<br>
 
 -----------------------------
