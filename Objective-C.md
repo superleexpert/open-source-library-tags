@@ -96,6 +96,9 @@ else - [TTTAttributedLabel:](https://github.com/mattt/TTTAttributedLabel)里有C
 [Demo1:](https://github.com/weida-studio/QQ)（类似QQ聊天界面，纯代码布局）<br>
 
 -----------------------------
+[JPVideoPlayer:](https://github.com/newyjp/JPVideoPlayer)UITableViewCell播放、缓存视频<br>
+
+-----------------------------
 [DateTools:](https://github.com/MatthewYork/DateTools)日期工具库，可进行日期和时间的相关操作，支持中文输出<br>
 
 -----------------------------
