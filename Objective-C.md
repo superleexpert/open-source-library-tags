@@ -49,6 +49,7 @@ else - [RegexKitLite:](https://github.com/wezm/RegexKitLite)正则是对NSString
 else - [SVProgressHUD:](https://github.com/TransitApp/SVProgressHUD)类似的加载过程显示组件，显示样式不同于前者<br>
 [M13ProgressSuite:](https://github.com/Marxon13/M13ProgressSuite)加载进度套装组件<br>
 [MRProgress:](https://github.com/mrackwitz/MRProgress)类似的加载显示组件，可获取进度百分比<br>
+[DACircularProgress:](https://github.com/danielamitay/DACircularProgress)进度条组件<br>
 [JazzHands:](https://github.com/IFTTT/JazzHands)帧数动画库，可以结合手势、通知等创建交互式动画.<br>
 
 ----------------------------------------------------------------------
