@@ -11,6 +11,9 @@ else - [Moya:](https://github.com/Moya/Moya)对Alamofire网络请求库进行了
 [Kingfisher:](https://github.com/onevcat/Kingfisher)轻量级下载图片、缓存<br>
 
 ----------------------------------------------------------------------
+[HXPhotoPicker:](https://github.com/SilenceLove/HXPhotoPicker)图片/视频选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、编辑图片/视频、浏览网络图片<br>
+
+----------------------------------------------------------------------
 [SwiftyJSON:](https://github.com/SwiftyJSON/SwiftyJSON)超简单处理JSON数据<br>
 else - [AlamofireObjectMapper:](https://github.com/tristanhimmelman/AlamofireObjectMapper)将Alamofire JSON响应数据 转为Swift对象<br>
 
